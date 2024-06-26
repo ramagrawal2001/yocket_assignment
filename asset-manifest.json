@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yocket_assignment/static/css/main.02bf2438.css",
+    "main.js": "/yocket_assignment/static/js/main.053d62f9.js",
+    "index.html": "/yocket_assignment/index.html",
+    "main.02bf2438.css.map": "/yocket_assignment/static/css/main.02bf2438.css.map",
+    "main.053d62f9.js.map": "/yocket_assignment/static/js/main.053d62f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02bf2438.css",
+    "static/js/main.053d62f9.js"
+  ]
+}
